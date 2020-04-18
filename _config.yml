@@ -139,3 +139,5 @@ collections:
 
 # Markdown rendering
 markdown: kramdown
+
+theme: jekyll-theme-cayman
