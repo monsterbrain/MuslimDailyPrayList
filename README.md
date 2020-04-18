@@ -3,6 +3,8 @@
 
 # [VIEW HOME PAGE](https://goodmuslim.github.io/MuslimDailyPrayList/)
 
+![site_screen_image](chrome_DJJBLWOhGx.png)
+
 ## Credits
 - Forked from [AwesomeApp Landing Page](https://github.com/emilbaehr/automatic-app-landing-page)
 - [Jekyll](https://github.com/jekyll/jekyll)
